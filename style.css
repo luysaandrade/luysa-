@@ -1,0 +1,29 @@
+body {
+	background-color: rgb(106, 139, 172);
+	color: blueviolet;
+}
+
+H1 {
+	color: violet;
+	text-align: center;
+	font-size: 50px;
+}
+nav {
+	background-color: palevioletred;
+	color: aqua;
+	padding: 10px;
+}
+
+
+
+nav ul{
+	list-style: none;
+	display: flex;
+    justify-content: none;
+}
+
+nav ul li {
+    margin: 0 15px;
+        text-align: center;
+    }
+    
